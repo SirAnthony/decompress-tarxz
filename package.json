@@ -1,5 +1,5 @@
 {
-  "name": "decompress-tarxz",
+  "name": "@hola.org/decompress-tarxz",
   "version": "4.0.0",
   "description": "decompress tar.xz plugin",
   "license": "MIT",
